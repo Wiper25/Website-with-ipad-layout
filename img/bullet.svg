@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" width="14" height="14">
+	<defs>
+		<image width="14" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAL1QTFRFAAAArq6uxMTE1dXV4eHh3Nzczs7OuLi4uLi43d3d4uHhzc3Nvb294+Li5OLi1tbWr6+vrKys39/f5eLix8fHxsbG0s/PxcLC5+Pj5uLi4ODgycbGgoGBmJaW0MzMubm5zcrKoZ+f1dLSvr6+3d3dz8zMjIqKwb+/vLy80NDQzsvLraur4NzcsbGx0tDQlpSU2NjYqamp09PT4N/fuLi4ra2tv7+/qampx8fH2dnZt7e3rq6uu7u7ubm5s7OzMUiK/wAAAD90Uk5TACOp4f/zzHVu9f/JiP//5hsv+/+0q//////9/////3H///+L9////4XT////TP//6gTd/2cnlBix7GsfgnxTHhF1wwAAAJtJREFUeJwtjtkWgjAQQ4OOotUWpC6oVdx3Edz3//8sp2Ce5p6cSQIATqFIpbKLXJWqsKKaY6lOQkolpSDPBxqBkEprrZibQIup3QnDLnPPhyek7pvBMNRsRwiE0iNjzHiiBE0xY3fOuFiyu8KafzfGbHc2aw+Xe+JDnCUnKdIjiVPeS2eecUkoX0XXbOTtTlaP5380XtH7882uH4azDPaVmcpPAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="product section5">
+		<use id="bullet" href="#img1" x="0" y="0" />
+	</g>
+</svg>

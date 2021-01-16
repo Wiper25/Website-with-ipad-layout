@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" width="33" height="33">
+	<defs>
+		<image width="33" height="33" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAMAAABgOjJdAAAAAXNSR0IB2cksfwAAAIdQTFRFKWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2KWO2Ohd+AQAAAC10Uk5TAFf0/7p3/fnv9+A6T+VC/P4iGpdkXrKS9uPR8aHBfb623N6qh8UJ6O3wyNn749ej0gAAANhJREFUeJy91NkWgiAQBuBRlKQsLc1W2zer93++HOgoi1Dd9N84wncY8BwEAM8ntvge1Ams85gAIHQCQkJQWtBeFDGtEUgv/QHwxEOZtIKOoEmcdIh0DFIm1BSZmMpj8ZwaIuXjBZYzXs51scDR98l5v6UuChxdiXrdLCeLclMnFfUWxc48bZscxd4h+JYgsYsDB0fjtE34NiEjVnHSVjDEGZRv0SEuCK7ELiiCNXEIhuLmEhUK5hJd+VWwe53KJR4dF+hPQr1zUZ2nAvwv7i2UTlBi3w//jxcBNxFMXrX0UQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Catagary section3">
+		<g id="Discover apps">
+			<use id="discover icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

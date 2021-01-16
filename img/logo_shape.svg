@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37" width="37" height="37">
+	<defs>
+		<image width="37" height="37" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAlCAMAAADyQNAxAAAAAXNSR0IB2cksfwAAAUpQTFRFAAAA////////////////////////////////////////////////////////////////////////paWtlpaftLS6////iIiRHx8xW1to////////////4eHk////Li4/////w8PI0tLW////////////////////////////////////8PDx////TExa////////////////PT1M////////////////eXmD////////////////////////////////////////////////////////////////////////////////////amp2////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////OJdGnwAAAG50Uk5TAC5rpcjf8eMRbsnv//QCYNIktv///0H///9CLOb/zv+P//8wofBwDbMp6Uv/af94e+1x/+JZNvf/qRdzAYv6O/zRBwTHVuUWCMJtNbtn/yGJPYfoQ80vOL/1jgZa+59Fivj967JyJxkzdWxHKw69Bit7AAABaUlEQVR4nI3UV1vCMBQG4Ki1oIKKFDlVoQKCq1YRUVQUFbfi3nvh9v/fGkZLT5Lnab/Lj5fTdCSE2NPU3CK1ylw8NuJta+/wCeO3TGdXt5jQyCYK9HC/BZUQo3o9HAoDqFj18QsKAUAYqf4Bfi0qVRG78kYFK9YAgmj1g6L7iilxn10l/CJlT0UNOaGKCiTdqJQjomp4xI0aHXOjxgWtrmoRrCYEygBNx2qSR/Q9h3xYTXEo3njN9aTJNKcykGGaGZJlkQIQY6oomZ3DTUSDHPvHebIg4SbX+KysLJL8Eh4F/KjlAv2aV5xGra4RUlx3GEUvSLOBR8VZtLlVUds7VqEDGNyo3do+25PNgj4rhUX7xfqeLZnNAYDOXu/QOiSO6pVhbWczyePGcZM/qXUxhXkMp2fo5CoJ98j5BcG5vOLM9Y2XsLm9k+7tJv2Q4Ex1dY9P0nNVvLy+ld+FppqPz2zqq/z98/uH6n/sGU9pFIQOAQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Hedder section 1">
+		<g id="Logo">
+			<use id="i" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
