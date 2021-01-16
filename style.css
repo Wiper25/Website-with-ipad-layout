@@ -6,6 +6,7 @@ body {
 
 }
 .wrapper {
+    width: 103%;
     height: 1843px;
     padding-top: 30px;
     padding-right: 60px;
@@ -245,6 +246,7 @@ body {
     margin-bottom: 30px;
 }
 .footer {
+    width: 103%;
     height: 385px;
     background-color: #363647;
     padding-top: 40px;
